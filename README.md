@@ -1,2 +1,4 @@
-# Python-photo-converter
-Converts photo from coloured to black and white.
+# Password-Generator
+
+Generates 10 digits different password for everytime it is run.
+It can be used to generate password for your work.
